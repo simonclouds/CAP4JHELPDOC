@@ -1,0 +1,140 @@
+新建CAP4J项目|new_cap4j_project
+	项目创建
+
+创建数据模型|new_data_model
+	创建数据模型
+	数据实体定义
+	查询实体定义
+	生成持久层实体对象模型
+
+创建数据字典|new_data_dictionary
+	默认数据字典
+	新建数据字典
+
+创建新的报文模板|new_message_template
+	报文模板
+	
+创建TCP接入渠道|new_tcp_access_inbound
+	TCP接入渠道
+
+创建自定义接入渠道|new_custom_access_inbound
+	自定义接入渠道
+
+创建TCP接出通道|new_tcp_access_outbound
+	TCP接出通道
+
+创建自定义接出通道|new_custom_access_outbound
+	自定义接出通道
+
+创建接入服务|new_service_inbound
+	接入服务配置
+	接入报文定义
+
+创建接出服务|new_service_outbound
+	接出服务基本配置
+	接出报文定义
+
+创建CTSP服务|new_ctsp_service
+	CTSP报文定义
+	CTSP接出服务
+
+新建HTML文件|new_html_file
+	新建HTML
+	Html编辑器
+
+新建JSP文件|new_jsp_file
+	新建JSP
+	JSP编辑器界面使用说明
+	JSP编辑器选用板使用说明
+	JSP编辑器设置
+
+新建Controller|new_controller
+	新建Controller
+
+新建Service|new_service
+	新建Service
+
+新建Dao|new_dao
+	新建Dao
+
+选择dataset|select_dataset
+	新建实体对象
+
+选择数据实体|select_data_entity
+	新建实体对象
+
+生成VO信息配置|generate_vo_configuration
+	新建实体对象
+
+向导及持久层实现选择|wizard_and_persistence_selection
+	单表维护功能向导
+	主从表维护功能向导
+	查询实体功能向导
+
+选择单表数据实体|select_single_table_data_entity
+	单表维护功能向导
+
+选择关联表数据实体|select_association_table_data_entity
+	主从表维护功能向导
+
+选择查询数据实体|select_query_data_entity
+	查询实体功能向导
+
+查询条件页面设置|query_condition_page_settings
+	查询条件页面设置
+
+查询结果列表设置|query_result_list_settings
+	查询结果列表设置
+
+新增页面设置|new_page_settings
+	新增页面设置
+
+生成资源配置|generate_resource_configuration
+	单表维护功能向导
+	主从表维护功能向导
+	查询实体功能向导
+
+导入模块|import_module
+	模块导入
+
+事务有效性校验|transaction_validity_check
+	事务有效性检验
+
+在服务上调试|debug_on_server
+	WebLogic服务器
+	Tomcat服务器
+	Jetty服务器 
+	
+调试配置|debug_configuration
+	服务支持
+	运行部署
+	首选项设置
+
+在服务器上运行|run_on_server
+	WebLogic服务器
+	Tomcat服务器
+	Jetty服务器 
+
+运行配置|run_configuration
+	服务支持
+	运行部署
+	首选项设置
+
+新建数据源|new_datasource
+	数据源维护
+	初始化数据源
+
+初始化数据库|init_database
+	初始化数据源
+
+导入数据实体|import_data_entity
+	数据实体定义
+
+非持久化实体属性设置|non-persistent_entity_propertity_settings
+	实体定义
+
+查询实体属性设置|query_entity_propertity_settings
+	查询实体定义
+
+生成持久层实体对象模型|generate_persistence_entity_object_model
+	生成持久层实体对象模型
